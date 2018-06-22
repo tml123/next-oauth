@@ -33,7 +33,7 @@ npm run dev
 
 ## What this demonstrates
 
-This example integrates a custom Express.js server with Next.js and provides a simple example of how one might perform OAuth.  The example draws from several Next.js threads and examples such as [custom-server-express](https://github.com/zeit/next.js/tree/canary/examples/custom-server-express), [with-firebase-authentication](https://github.com/zeit/next.js/tree/canary/examples/with-firebase-authentication), [How to protect routes?](https://github.com/iaincollins/nextjs-starter/issues/12).
+This example integrates a custom Express.js server with Next.js and provides a simple example of how one might perform OAuth.  The example draws from several Next.js threads and examples such as [custom-server-express](https://github.com/zeit/next.js/tree/canary/examples/custom-server-express), [with-firebase-authentication](https://github.com/zeit/next.js/tree/canary/examples/with-firebase-authentication), [How to protect routes?](https://github.com/iaincollins/nextjs-starter/issues/12).  Additionally, this example utilizes the [Node.js OAuth with Microsoft 365 Tutorial](https://docs.microsoft.com/en-us/outlook/rest/node-tutorial).
 
 The example shows a VERY simple button when the user navigates to [http://localhost:3000](http://localhost:3000).  The link will redirect the user to the Outlook sign-in page and then redirect back to the app after a successful login.  This assumes that the user has an Office 365 account able to be validated.
 
