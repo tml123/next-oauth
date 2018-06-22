@@ -1,0 +1,28 @@
+{
+  "name": "next-oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "isomorphic-unfetch": "^2.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "net": "^1.0.2",
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "session-file-store": "^1.2.0",
+    "simple-oauth2": "^2.2.0"
+  }
+}
