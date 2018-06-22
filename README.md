@@ -2,10 +2,10 @@
 
 ## How to use
 
-[Clone the repo](https://github.com/tml123/react-ms-oauth):
+[Clone the repo](https://github.com/tml123/next-oauth):
 
 ```bash
-cd react-ms-oauth
+cd next-oauth
 ```
 
 Install it and run:

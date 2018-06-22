@@ -5,8 +5,6 @@ import Layout from '../components/layout';
 export default class Index extends Component {
     static async getInitialProps({ req, query }) {
         const { authUrl, session } = req;
-        console.log('hi there');
-        console.log(session.userName);
         return { authUrl, session }
     }
 
