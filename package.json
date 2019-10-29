@@ -21,7 +21,7 @@
     "net": "^1.0.2",
     "next": "^6.0.3",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "session-file-store": "^1.2.0",
     "simple-oauth2": "^2.2.0"
   }
