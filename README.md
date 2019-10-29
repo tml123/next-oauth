@@ -1,6 +1,6 @@
 # Authentication Example with Next.js and Microsoft Office 365 OAuth
 
-## How to use
+## How to use 
 
 [Clone the repo](https://github.com/tml123/next-oauth):
 
