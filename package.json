@@ -19,7 +19,7 @@
     "isomorphic-unfetch": "^2.0.0",
     "jsonwebtoken": "^8.3.0",
     "net": "^1.0.2",
-    "next": "^6.0.3",
+    "next": "^11.1.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "session-file-store": "^1.2.0",
